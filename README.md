@@ -1,5 +1,7 @@
 # Movie-predictions-CNN
 
+The data is not in this GitHub repo because the dimension of some file is too large
+
 Description:
 Application of CNN model to predict movies parameter from semantics matrix
 
