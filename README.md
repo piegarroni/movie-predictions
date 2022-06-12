@@ -29,11 +29,11 @@ The semantics vectors for every chunk were retrieve of every movie with GPT-2
  
 for every movie, a matrix containing the semantic vectors was created. the example looks like:
 
-![Screenshot](data/matrix.png)
+![Screenshot](images/matrix.png)
 
 ### Step 5
 
 CNN was trained on the matrices to predict the tomatometer. The structure of the model is: 
 
-![Screenshot](data/structure.png)
+![Screenshot](images/structure.png)
 
