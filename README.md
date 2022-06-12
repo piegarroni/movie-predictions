@@ -27,7 +27,7 @@ The semantics vectors for every chunk were retrieve of every movie with GPT-2
 
 ### Step 4: 
  
-for every movie, a matrix containing the semantic vectors was created. the example looks like:
+for every movie, a matrix containing the semantic vectors was created. example of matrix:
 
 ![Screenshot](images/matrix.png)
 
