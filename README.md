@@ -1,4 +1,4 @@
-# Movie-predictions-CNN
+# Movie-classification-AI
 
 Trying to use the subtitles of movies to predict their popularity and rating.
 
